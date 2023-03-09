@@ -21,7 +21,7 @@ In this project, I present to you Track It, a simple web application that lets y
 
 ## SQLAlchemy and SQLite3
 I need a table in the database for Income and Expenses hence decided to make one with SQLAlchemy:
-![Database](/Database%20.png)
+![Database](/Database.png)
 
 ## Built With
 
