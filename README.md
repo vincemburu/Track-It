@@ -1,7 +1,5 @@
 # Project Title: Track It
 
-#### Video Demo:  https://youtu.be/g5mTiwfEye0
-
 #### Description:
 
 In this project, I present to you Track It, a simple web application that lets you track your money expenditure by taking in your income as well as your expense and presents the data in a pie chart.
@@ -54,9 +52,9 @@ Find the course here: https://cs50.harvard.edu/x/2023/
 
 ## 🤝 Support
 
-Contributions, issues, and feature requests are welcome!
-
 Give a ⭐️ if you like this project!
+
+#### Demo:  https://youtu.be/g5mTiwfEye0
 
 ## Reference:
 
