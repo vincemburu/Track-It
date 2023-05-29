@@ -50,11 +50,9 @@ Find the course here: https://cs50.harvard.edu/x/2023/
 - [Profile](https://github.com/vincemburu "Vincent Mburu")
 - [Email](mailto:vincentmburu007@gmail.com?subject=Hi "Hi!")
 
-## 🤝 Support
+## Link
 
 #### Demo:  https://youtu.be/g5mTiwfEye0
-
-Give a ⭐️ if you like this project!
 
 ## Reference:
 
