@@ -4,6 +4,10 @@
 
 In this project, I present to you Track It, a simple web application that lets you track your money expenditure by taking in your income as well as your expense and presents the data in a pie chart.
 
+## Link
+
+#### Demo:  https://youtu.be/g5mTiwfEye0
+
 ## Introduction
 * Index Page:
   For the index page, you will find a table layout where the user infomation will be presented after inputting the data at the add page.
@@ -49,10 +53,6 @@ Find the course here: https://cs50.harvard.edu/x/2023/
 
 - [Profile](https://github.com/vincemburu "Vincent Mburu")
 - [Email](mailto:vincentmburu007@gmail.com?subject=Hi "Hi!")
-
-## Link
-
-#### Demo:  https://youtu.be/g5mTiwfEye0
 
 ## Reference:
 
