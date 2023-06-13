@@ -17,7 +17,7 @@ In this project, I present to you Track It, a simple web application that lets y
   In the add page, there will be a form page which the user will be required to fill out. The form includes an input field of Amount, where the user will input the amount of money they want to be generated. It will also include a Type section which the user can choose between Income and Expense. Lastly there will be a Category section where the user can choose between salary, rent, investment and side-hustle.
   ![Add Page](/Images/Add%20page.png)
 
-  * Dashboard Page:
+* Dashboard Page:
   In the dashboard page, the user information which is generated after submission will display a pie chart will show the users relationship between Income and Expenses.
   ![Dashboard Page](/Images/Dashboard%20page.png)
 
