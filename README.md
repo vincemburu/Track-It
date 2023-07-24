@@ -4,6 +4,8 @@
 
 In this project, I present to you Track It, a simple web application that lets you track your money expenditure by taking in your income as well as your expense and presents the data in a pie chart.
 
+## Link
+#### Video Demo:  https://youtu.be/g5mTiwfEye0
 
 ## Introduction
 * Index Page:
@@ -34,17 +36,6 @@ I need a table in the database for Income and Expenses hence decided to make one
 
 * I've used Flask web framework based in Python, necessary for flask-sqlalchemy to manage SQL database with sqlite and flask-wtf to upload files and forms extensions
 
-## About CS50
-
-CS50 is a openware course from Havard University and taught by David J. Malan
-
-Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches you how to solve problems, both with and without code, with an emphasis on correctness, design, and style. Topics include computational thinking, abstraction, algorithms, data structures, and computer science more generally. Languages include C, Python, and towards the end, the course introduces SQL, via which you can store data in databases, along with HTML, CSS, and JavaScript, via which you can create web and mobile apps alike.
-
-Thank you for all CS50.
-
-Find the course here: https://cs50.harvard.edu/x/2023/
-
-## Author
 
 **Vincent Mburu**
 
