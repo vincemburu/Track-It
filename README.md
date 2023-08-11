@@ -36,12 +36,6 @@ I need a table in the database for Income and Expenses hence decided to make one
 
 * I've used Flask web framework based in Python, necessary for flask-sqlalchemy to manage SQL database with sqlite and flask-wtf to upload files and forms extensions
 
-
-**Vincent Mburu**
-
-- [Profile](https://github.com/vincemburu "Vincent Mburu")
-- [Email](mailto:vincentmburu007@gmail.com?subject=Hi "Hi!")
-
 ## Reference:
 
 * Flask WTF-Forms Documentation
