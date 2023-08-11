@@ -34,7 +34,7 @@ I need a table in the database for Income and Expenses hence decided to make one
 - CSS
 - Bootstrap
 
-* I've used Flask web framework based in Python, necessary for flask-sqlalchemy to manage SQL database with sqlite and flask-wtf to upload files and forms extensions
+* Used Flask web framework based in Python, necessary for flask-sqlalchemy to manage SQL database with sqlite and flask-wtf to upload files and forms extensions
 
 ## Reference:
 
